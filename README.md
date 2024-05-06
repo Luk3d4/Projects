@@ -98,7 +98,7 @@ HTML e/ou JavaScript (opcional): Se você optar por criar uma interface de contr
 
 
 
-#### Estudos sobre o projeto em ordem:
+### Estudos sobre o projeto em ordem:
 Arduino Basics:
 Comece aprendendo os conceitos básicos do Arduino, incluindo como funciona, como programar e como conectar componentes.
 
