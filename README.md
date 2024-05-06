@@ -79,7 +79,9 @@ Basico de html, css, javascript
 
     
 # IDEIA DE PAP 2
-## ARDUINO SENSORIAL 
+________________________________________________________________________________________________________________________________________________________________________________________________________________
+## ARDUINO SENSORIAL-CARRO AUTONÓMO
+
 -Ideias de linguagens que comandem um arduino a distancia(bluetooh ou wifi) *obs: Bluetooh me parece mais viavel*
 
 -fazer com que o sensor identifique um obstaculo e mude de rota a uma determinada distancia especifica para evitar contato com o obstaculo
@@ -100,12 +102,7 @@ XML: Utilizado para criar layouts de interface de usuário no Android. Você usa
 
 HTML e/ou JavaScript (opcional): Se você optar por criar uma interface de controle remoto baseada na web para o Arduino, também pode usar HTML e JavaScript para criar a interface do usuário e interagir com o Arduino por meio de solicitações HTTP.
 
-
-
-
-
-
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Estudos sobre o projeto em ordem:
 Arduino Basics:
@@ -138,8 +135,6 @@ Documentação e Refatoração:
 
 Documente seu projeto conforme você avança e refatore o código conforme necessário para torná-lo mais legível e modular.
 Começar com os fundamentos do Arduino e, em seguida, expandir para a comunicação sem fio e o desenvolvimento de aplicativos móveis pode ajudá-lo a construir seu projeto passo a passo, entendendo cada componente e tecnologia ao longo do caminho.
-
-
 
 
 -Estudos sobre: 
