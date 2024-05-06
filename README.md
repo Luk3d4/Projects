@@ -81,9 +81,13 @@ Basico de html, css, javascript
 # IDEIA DE PAP 2
 ## ARDUINO SENSORIAL 
 -Ideias de linguagens que comandem um arduino a distancia(bluetooh ou wifi)
--fazer com que o sensor identifique um obstaculo e mude de rota a alguma distancia especifica para evitar contato
+
+-fazer com que o sensor identifique um obstaculo e mude de rota a uma determinada distancia especifica para evitar contato com o obstaculo
+
 -provavelmente controle remoto para poder freiar ou a controle total, caso bata em algum obstaculo, reporte automaticamente no aplicativo ou site
+
 -aplicativo ou site no telefone
+
 -botão para mudança de autonomo para a controle 
 
 ### possiveis ferramnetas
