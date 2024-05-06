@@ -90,7 +90,7 @@ Basico de html, css, javascript
 
 -botão para mudança de autonomo para a controle 
 
-### possiveis ferramnetas
+### possiveis ferramentas
 C/C++: Utilizado para programar o Arduino. A linguagem de programação do Arduino é baseada em C/C++, portanto, você escreveria o código para controlar os motores, ler os sensores e lidar com a comunicação Wi-Fi no Arduino usando C/C++.
 
 Java ou Kotlin: Utilizado para desenvolver o aplicativo Android. Você usaria Java ou Kotlin para criar a interface de usuário, lidar com eventos de clique de botão, fazer solicitações HTTP para se comunicar com o Arduino e gerenciar a lógica do aplicativo.
