@@ -78,7 +78,7 @@ Basico de html, css, javascript
     
 # IDEIA DE PAP 2
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
-## ARDUINO SENSORIAL-CARRO AUTONÓMO
+## ARDUINO SENSORIAL-CARRO AUTONÓMO (possivel pap em conjunto)
 
 -Ideias de linguagens que comandem um arduino a distancia(bluetooh ou wifi) *obs: Bluetooh me parece mais viavel*
 
