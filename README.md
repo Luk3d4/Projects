@@ -90,10 +90,7 @@ Basico de html, css, javascript
 
 -botão para mudança de autonomo para a controle 
 
-
-
-
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### possiveis ferramentas
 C/C++: Utilizado para programar o Arduino. A linguagem de programação do Arduino é baseada em C/C++, portanto, você escreveria o código para controlar os motores, ler os sensores e lidar com a comunicação Wi-Fi no Arduino usando C/C++.
 
