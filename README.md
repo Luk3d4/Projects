@@ -136,9 +136,13 @@ Documentação e Refatoração:
 -Estudos sobre: 
 
 https://www.youtube.com/watch?v=paI4FvcHNYw
+
 HTML + HTML5: https://goo.gl/nkEFd9
+
 CSS3: https://goo.gl/Aywzrj
+
 Javascript: https://goo.gl/HK3ZYn
+
 PHP + MySQL: https://goo.gl/5eFh1M
 
 
