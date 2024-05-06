@@ -75,8 +75,6 @@ Basico de html, css, javascript
   https://www.youtube.com/watch?v=_GTMOmRrqkU&t=4s
 
 
-
-
     
 # IDEIA DE PAP 2
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -133,8 +131,6 @@ Testes e Depuração:
 Pratique testar e depurar seu projeto para identificar e corrigir problemas. Isso envolve testes no Arduino e no aplicativo para garantir que tudo funcione conforme o esperado.
 Documentação e Refatoração:
 
-Documente seu projeto conforme você avança e refatore o código conforme necessário para torná-lo mais legível e modular.
-Começar com os fundamentos do Arduino e, em seguida, expandir para a comunicação sem fio e o desenvolvimento de aplicativos móveis pode ajudá-lo a construir seu projeto passo a passo, entendendo cada componente e tecnologia ao longo do caminho.
 
 
 -Estudos sobre: 
