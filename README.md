@@ -147,7 +147,32 @@ Javascript: https://goo.gl/HK3ZYn
 PHP + MySQL: https://goo.gl/5eFh1M
 
 
-### Pensamentos
+# IDEIA DE PAP 3
+(melhor ideia ao meu ver até agora.)
+
+## "Mech Helper"
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+Será uma aplicação que irá revolucionar o mercado de trabalho em prol ao automobilismo.
+está aplicação será algo que irá simplificar e agilizar o processo de comunicação entre os clientes e a Oficina/mecanicos em serviço.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+sobre a aplicação: a aplicação será um local aonde a mecanica poderá entrar em contato com cliente de forma eficaz e sem perda de tempo com ligações e de forma dinamica e agradavel para o cliente
+assim que o carro for registado na oficina.
+
+O Cliente: tera uma interface para o utilizador poder ver o estado do carro assim que estiver localizado na oficina para ver como esta o estado do carro atualmente que será atualizado pela oficina através de uma interface personalizada para a oficina, assim que estiver pronto a reparação ou a personalização do carro. ele receberá uma notificação no ecrã assim que o trabalho da oficina com o carro estiver finalizado para poder ir recolher o carro.
+
+A Oficina: terá uma interface diferente de um utilizador comum que sera apenas o estado do carro, a oficina poderá mudar o estado do carro no ecrã do cliente de forma simples com apenas apertar de botões
+com exemplo de (em fila) (a reparar) (finalizado) de forma simples para que o mecanico economize tempo e para que o cliente saiba do estado do carro a todo momento.
+
+ideia: dia 25/09/2024. tive essa ideia no banho quando estava pensando em que a minha ideia principal de pap não me parecia boa o suficiente então a ideia surgiu quando pensei sobre aplicativos de entrega, pela a aplicação que diz sobre o estado da entrega e aonde se encontra a todo momento já a aplicação fica de forma que eu fico a saber do estado do carro a todo instante em uma aplicação por mais que não seja de entrega eu foquei na parte de "estado do carro"
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Terei que estudar sobre base de dados e entrega de informação para troca de informação entre a oficina e o cliente.
+tambem terei que estudar sobre linguagens de programação para aplicações moveis.
+Aplicação para uma oficina fictícia a princípio.
+
+### Atualizações e ideias de complemento do aplicativo
+caso haja alguma alteração diferente do que foi reportado ao cliente na oficina haverá um chat para o mecanico poder atualizar e avisar o cliente sobre novas peças adicionais que não era esperado de inicio caso ele encontre alguma irregularidade que não tinha encontrado antes de inicio.
+
 
 - Pensamento 1
 - Pensamento 2
